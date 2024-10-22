@@ -6,7 +6,7 @@ ID:CT08DS8892
 
 Domain: VLSI
 
-Duration: 5th October to 5th November 2024
+Duration: 5th October 2024 to 5th November 2024
 
 Mentor: Neela Santhosh
 
