@@ -1,9 +1,14 @@
-**Name: Kanumuri Abraham Samuel Nagaraju
-**Company: CODETECH IT SOLUTIONS
-**ID:CT08DS8892
-**Domain: VLSI
-**Duration: 5th October to 5th November 2024
-**Mentor: Neela Santhosh
+Name: Kanumuri Abraham Samuel Nagaraju
+
+Company: CODETECH IT SOLUTIONS
+
+ID:CT08DS8892
+
+Domain: VLSI
+
+Duration: 5th October to 5th November 2024
+
+Mentor: Neela Santhosh
 
 
 ### Verilog Projects: Logic Gates, Adders, and 8-to-1 Multiplexer
